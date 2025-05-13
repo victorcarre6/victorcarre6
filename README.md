@@ -39,7 +39,7 @@ Open to collaborations on innovative projects.
 
 ## Get in Touch
 
-- [LinkedIn](www.linkedin.com/in/victor-carré)
+- [LinkedIn](https://www.linkedin.com/in/victor-carré)
 - [Google Scholar](https://scholar.google.com/citations?hl=fr&user=19goLxoAAAAJ&view_op=list_works&sortby=pubdate)
 - [Twitter](https://x.com/victorcarre_)
 
