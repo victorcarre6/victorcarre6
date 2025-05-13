@@ -22,7 +22,7 @@ Open to collaborations on innovative projects.
 ## Active Projects 
 
 - [Biostimulants Database](https://github.com/victorcarre6/biostimulants-database)
-  An open-source repository for biostimulants and bioactive compounds from plants.  
+  An open-source repository for biostimulants and active compounds from bio-sources.  
 - [Photocatalysts Database](https://github.com/victorcarre6/photocatalysts-database)
   A comprehensive database for artificial photosynthesis molecules and photocatalytic systems, with a focus on biomass valorization. 
 
