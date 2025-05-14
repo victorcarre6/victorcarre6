@@ -23,14 +23,14 @@ Open to collaborations on innovative projects.
 
 - [Biostimulants Database](https://github.com/victorcarre6/biostimulants-database)
   An open-source repository for biostimulants and active compounds from bio-sources.  
-- [Photocatalysts Database](https://github.com/victorcarre6/photocatalysts-database)
+- [Photocompounds Database](https://github.com/victorcarre6/photocompounds-database)
   A comprehensive database for artificial photosynthesis molecules and photocatalytic systems, with a focus on biomass valorization. 
 
 ## Future Projects
 
 - [ChemML](https://github.com/victorcarre6/chemml)  
   A collection of machine learning tools for molecular discovery, property prediction, and high-throughput screening in chemistry.  
-- [Photocatalysts Properties Predictor](https://github.com/victorcarre6/photosynthesis-properties-predictor)
+- [Photocompounds Properties Predictor](https://github.com/victorcarre6/photocompounds-properties-predictor)
   A platform for predicting the efficiency and stability of new photocatalysts, using quantum chemical calculations and machine learning.   
 - [Biostimulant Formulation Predictor](https://github.com/victorcarre6/biostimulant-formulation-predictor)  
   An AI-powered tool for predicting optimal biostimulant formulations, integrating chemical, biological, and agronomic data for maximum efficacy.  
