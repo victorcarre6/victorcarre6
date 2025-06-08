@@ -9,13 +9,11 @@ Open to collaborations on innovative projects.
 
 ## My Interests  
 
-- Biostimulants and green chemistry
 - Molecular discovery with machine learning
-- Data-driven insights for sustainable agriculture    
-- Artificial photosynthesis and renewable energy
-- Photovoltaics and next-generation solar cells
-- Photocatalysis and light-driven chemical reactions  
+- Photocatalysis and light-driven chemical reactions
 - Photophysics and energy transfer mechanisms  
+- Biostimulants, green chemistry and data-driven insights for sustainable agriculture 
+- Artificial photosynthesis and renewable energy
 
 ---
   
