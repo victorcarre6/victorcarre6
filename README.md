@@ -21,15 +21,15 @@ Open to collaborations on innovative projects.
   
 ## Active Projects 
 
+- [Local LLM Memorization](https://github.com/victorcarre6/llm-memorization)  
+A project aiming to enhance interactions with local models by automatically memorizing and summarizing past conversations to generate precise and context-aware prompts.
 - [Biostimulants Database](https://github.com/victorcarre6/biostimulants-database)
 An open-source repository for biostimulants and active compounds from bio-sources.  
 - [Photocompounds Database](https://github.com/victorcarre6/photocompounds-database)
 A comprehensive database for artificial photosynthesis molecules and photocatalytic systems, with a focus on biomass valorization. 
 
-## Future Projects
+## Future Projects (Currently Private)
 
-- [ChemML](https://github.com/victorcarre6/chemml)  
-A collection of machine learning tools for molecular discovery, property prediction, and high-throughput screening in chemistry.  
 - [Photocompounds Properties Predictor](https://github.com/victorcarre6/photocompounds-properties-predictor)
 A project aiming to predict the properties, stability, and efficiency of photocompounds, using a homemade dataset. 
 - [Biostimulant Formulation Predictor](https://github.com/victorcarre6/biostimulant-formulation-predictor)  
