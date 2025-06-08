@@ -21,11 +21,16 @@ Open to collaborations on innovative projects.
   
 ## Active Projects 
 
-- [Local LLM Memorization](https://github.com/victorcarre6/llm-memorization)  
+- [Local LLM Memorization](https://github.com/victorcarre6/llm-memorization)
+  
 A project aiming to enhance interactions with local models by automatically memorizing and summarizing past conversations to generate precise and context-aware prompts.
+
 - [Reaction Optimizer Tool](https://github.com/victorcarre6/reaction-optimizer-tool)
+
 This project aims to develop an interface for the prediction of chemical reaction yields by combining molecular structure information, experimental conditions and ùachine learning models.
+
 - [Photocompounds Database](https://github.com/victorcarre6/photocompounds-database)
+
 A comprehensive database for artificial photosynthesis molecules and photocatalytic systems, with a focus on biomass valorization. 
 
 ## Future Projects (Currently Private)
