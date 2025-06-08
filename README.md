@@ -25,7 +25,7 @@ Open to collaborations on innovative projects.
   
 A project aiming to enhance interactions with local models by automatically memorizing and summarizing past conversations to generate precise and context-aware prompts.
 
-- [Reaction Optimization Tool](https://github.com/victorcarre6/reaction-optimization-tool))
+- [Reaction Optimization Tool](https://github.com/victorcarre6/reaction-optimization-tool)
 
 This project aims to develop an interface for the prediction of chemical reaction yields by combining molecular structure information, experimental conditions and ùachine learning models.
 
