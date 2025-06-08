@@ -30,11 +30,15 @@ A comprehensive database for artificial photosynthesis molecules and photocataly
 
 ## Future Projects (Currently Private)
 
-- [Biostimulants Database](https://github.com/victorcarre6/biostimulants-database)
-An open-source repository for biostimulants and active compounds from bio-sources.  
 - [Photocompounds Properties Predictor](https://github.com/victorcarre6/photocompounds-properties-predictor)
+
 A project aiming to predict the properties, stability, and efficiency of photocompounds, using a homemade dataset. 
+- [Biostimulants Database](https://github.com/victorcarre6/biostimulants-database)
+
+An open-source repository for biostimulants and active compounds from bio-sources.  
+
 - [Biostimulant Formulation Predictor](https://github.com/victorcarre6/biostimulant-formulation-predictor)  
+
 An AI-powered tool for predicting optimal biostimulant formulations, integrating chemical, biological, and agronomic data for maximum efficacy.  
 
 ---
