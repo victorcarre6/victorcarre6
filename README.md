@@ -1,7 +1,7 @@
 # Hello there ! I'm Victor – PhD in Chemistry, specialized in biomass valorization _via_ photochemistry  
 
 Exploring the intersection of chemistry, biology, data science, and machine learning. 
-I am building open-source tools for sustainable technologies and help scientists push the boundaries their researches.
+I am building open-source tools for sustainable technologies and help scientists push the boundaries of their researches.
 
 Open to collaborations on innovative projects.
 
