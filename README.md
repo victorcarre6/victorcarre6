@@ -23,11 +23,11 @@ Open to collaborations on innovative projects.
   
 A project aiming to enhance interactions with local models by automatically memorizing and summarizing past conversations to generate precise and context-aware prompts.
 
-- [Reaction Optimization Tool](https://github.com/victorcarre6/reaction-optimization-tool)
+- [Reaction Optimization Tool](https://github.com/victorcarre6/reaction-optimization-tool) (WIP)
 
 This project aims to develop an interface for the prediction of chemical reaction yields by combining molecular structure information, experimental conditions and ùachine learning models.
 
-- [Photocompounds Database](https://github.com/victorcarre6/photocompounds-database)
+- [Photocompounds Database](https://github.com/victorcarre6/photocompounds-database) (WIP)
 
 A comprehensive database for artificial photosynthesis molecules and photocatalytic systems, with a focus on biomass valorization. 
 
