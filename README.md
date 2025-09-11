@@ -1,19 +1,21 @@
-# Hello there ! I'm Victor – PhD in Chemistry, specialized in biomass valorization _via_ photochemistry  
+# Hello there ! I'm Victor – PhD in Organic Chemistry
 
-Exploring the intersection of chemistry, biology, data science, and machine learning. 
-I am building open-source tools for sustainable technologies and help scientists push the boundaries of their researches.
+Exploring the intersection of chemistry, data science, and AI models. 
 
-Open to collaborations on innovative projects.
+I design open-source tools that combine scientific rigor and digital innovation. 
+From molecular discovery to AI-powered assistants, my goal is to help scientists push the boundaries of their research.  
+
+I am independant, and always open to collaborations.  
+
 
 ---
 
 ## My Interests  
 
-- Molecular discovery with machine learning
-- Photocatalysis and light-driven chemical reactions
-- Photophysics and energy transfer mechanisms  
-- Biostimulants, green chemistry and data-driven insights for sustainable agriculture 
-- Artificial photosynthesis and renewable energy
+- Machine learning for chemistry and molecular discovery
+- Photochemistry, photocatalysis and light-driven processes
+- Biostimulants and sustainable agriculture through data-driven insights  
+- Intelligent assistants and productivity tools for science (LLMs, automation, dashboards)
 
 ---
   
@@ -22,6 +24,10 @@ Open to collaborations on innovative projects.
 - [Local LLM Memorization](https://github.com/victorcarre6/llm-memorization)
   
 A project aiming to enhance interactions with local models by automatically memorizing and summarizing past conversations to generate precise and context-aware prompts.
+
+- [LLM Assistant](https://github.com/victorcarre6/llm-assistant) (WIP)
+
+Modular personal assistant combining memory, domain-specific ML models, and reporting features** for scientific workflows.  
 
 - [Reaction Optimization Tool](https://github.com/victorcarre6/reaction-optimization-tool) (WIP)
 
@@ -35,7 +41,8 @@ A comprehensive database for artificial photosynthesis molecules and photocataly
 
 - [Photocompounds Properties Predictor](https://github.com/victorcarre6/photocompounds-properties-predictor)
 
-A project aiming to predict the properties, stability, and efficiency of photocompounds, using a homemade dataset. 
+A project aiming to predict the properties, stability, and efficiency of photocompounds, using a homemade dataset.
+
 - [Biostimulants Database](https://github.com/victorcarre6/biostimulants-database)
 
 An open-source repository for biostimulants and active compounds from bio-sources.  
