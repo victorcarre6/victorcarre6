@@ -25,9 +25,9 @@ I am independant, and always open to collaborations.
   
 A project aiming to enhance interactions with local models by automatically memorizing and summarizing past conversations to generate precise and context-aware prompts.
 
-- [LLM Assistant](https://github.com/victorcarre6/llm-assistant) (WIP)
-
-Modular personal assistant combining memory, domain-specific ML models, and reporting features** for scientific workflows.  
+- [LocalMind](https://github.com/victorcarre6/llm-assistant)
+- 
+A chat interface to discuss with local models that maintain persistent memory, based on Local LLM Memorization with automatic update and retrieving of memory.
 
 - [Reaction Optimization Tool](https://github.com/victorcarre6/reaction-optimization-tool) (WIP)
 
