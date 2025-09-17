@@ -41,7 +41,8 @@ I am independant, and always open to collaborations.
 
 - [LocalMind](https://github.com/victorcarre6/llm-assistant)
   
-  <img src="https://img.shields.io/badge/HuggingFace-FFAE00?logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=green" />
   <img src="https://img.shields.io/badge/LLM-Context--Aware-blue" />
   <img src="https://img.shields.io/badge/Memory--System-green" /> 
 
