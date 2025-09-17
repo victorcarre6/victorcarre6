@@ -40,6 +40,7 @@ I am independant, and always open to collaborations.
 ## Active Projects 
 
 - [LocalMind](https://github.com/victorcarre6/llm-assistant)
+  
   <img src="https://img.shields.io/badge/HuggingFace-FFAE00?logo=huggingface&logoColor=black" />
   <img src="https://img.shields.io/badge/LLM-Context--Aware-blue" />
   <img src="https://img.shields.io/badge/Memory--System-green" /> 
