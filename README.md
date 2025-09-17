@@ -41,9 +41,9 @@ I am independant, and always open to collaborations.
 
 - [LocalMind](https://github.com/victorcarre6/llm-assistant)
   
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=green" />
   <img src="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=green" />
-  <img src="https://img.shields.io/badge/LLM-Context--Aware-blue" />
+  <img src="https://img.shields.io/badge/LLM-Context--Aware-green" />
   <img src="https://img.shields.io/badge/Memory--System-green" /> 
 
   A chat interface to discuss with local models that maintain persistent memory, based on Local LLM Memorization with automatic update and retrieving of memory.
@@ -52,9 +52,9 @@ I am independant, and always open to collaborations.
 
 - [Local LLM Memorization](https://github.com/victorcarre6/llm-memorization)
   
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Memory--System-green" />
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=yellow" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=yellow" />
+  <img src="https://img.shields.io/badge/Memory--System-yellow" />
    
   A project aiming to enhance interactions with local models by automatically memorizing and summarizing past conversations to generate precise and context-aware prompts.
 
