@@ -12,12 +12,6 @@ I am independant, and always open to collaborations.
   <img src="https://img.shields.io/github/stars/victorcarre6?affiliations=OWNER&style=social" />
 </p>
 
-<p align="center">
-  <a href="https://ko-fi.com/victorcarre">
-    <img src="https://ko-fi.com/img/githubbutton_sm.svg" />
-  </a>
-</p>
-
 ---
 
 ## My Interests  
@@ -43,25 +37,31 @@ I am independant, and always open to collaborations.
 - Intelligent assistants and productivity tools for science (LLMs, automation, dashboards)
 
 ---
-  
 ## Active Projects 
 
-- [Local LLM Memorization](https://github.com/victorcarre6/llm-memorization)
-  
-A project aiming to enhance interactions with local models by automatically memorizing and summarizing past conversations to generate precise and context-aware prompts.
+- [LocalMind](https://github.com/victorcarre6/llm-assistant)  
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/HuggingFace-FFAE00?logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/LLM-Context--Aware-blue" />  
+  A chat interface to discuss with local models that maintain persistent memory, based on Local LLM Memorization with automatic update and retrieving of memory.
 
-- [LocalMind](https://github.com/victorcarre6/llm-assistant)
+- [Local LLM Memorization](https://github.com/victorcarre6/llm-memorization)  
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Memory--System-green" />  
+  A project aiming to enhance interactions with local models by automatically memorizing and summarizing past conversations to generate precise and context-aware prompts.
 
-A chat interface to discuss with local models that maintain persistent memory, based on Local LLM Memorization with automatic update and retrieving of memory.
+- [Reaction Optimization Tool](https://github.com/victorcarre6/reaction-optimization-tool) (WIP)  
+  <img src="https://img.shields.io/badge/Chemistry-008080?logo=atom&logoColor=white" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-102230?logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/WIP-orange" />  
+  This project aims to develop an interface for the prediction of chemical reaction yields by combining molecular structure information, experimental conditions and machine learning models.
 
-- [Reaction Optimization Tool](https://github.com/victorcarre6/reaction-optimization-tool) (WIP)
-
-This project aims to develop an interface for the prediction of chemical reaction yields by combining molecular structure information, experimental conditions and ùachine learning models.
-
-- [Photocompounds Database](https://github.com/victorcarre6/photocompounds-database) (WIP)
-
-A comprehensive database for artificial photosynthesis molecules and photocatalytic systems, with a focus on biomass valorization. 
-
+- [Photocompounds Database](https://github.com/victorcarre6/photocompounds-database) (WIP)  
+  <img src="https://img.shields.io/badge/Database-blue?logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Photochemistry-purple" />
+  <img src="https://img.shields.io/badge/WIP-orange" />  
+  A comprehensive database for artificial photosynthesis molecules and photocatalytic systems, with a focus on biomass valorization. 
 ## Future Projects (Currently Private)
 
 - [Photocompounds Properties Predictor](https://github.com/victorcarre6/photocompounds-properties-predictor)
@@ -86,3 +86,10 @@ An AI-powered tool for predicting optimal biostimulant formulations, integrating
 
 ## Open to Collaborations  
 If you're working on projects related to sustainable chemistry, clean energy, or molecular innovation, feel free to reach out. I'd be happy to discuss with like-minded scientists !
+
+
+<p align="center">
+  <a href="https://ko-fi.com/victorcarre">
+    <img src="https://ko-fi.com/img/githubbutton_sm.svg" />
+  </a>
+</p>
