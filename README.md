@@ -1,5 +1,10 @@
 # Hello there ! I'm Victor – PhD in Organic Chemistry
 
+<p align="center">
+  <!-- Total Stars -->
+  <img src="https://img.shields.io/github/stars/victorcarre6?affiliations=OWNER&style=social" />
+</p>
+
 Exploring the intersection of chemistry, data science, and AI models. 
 
 I design open-source tools that combine scientific rigor and digital innovation. 
@@ -7,14 +12,14 @@ From molecular discovery to AI-powered assistants, my goal is to help scientists
 
 I am independant, and always open to collaborations.  
 
-<p align="center">
-  <!-- Total Stars -->
-  <img src="https://img.shields.io/github/stars/victorcarre6?affiliations=OWNER&style=social" />
-</p>
-
 ---
 
 ## My Interests  
+
+- Machine learning for chemistry and molecular discovery
+- Photochemistry, photocatalysis and light-driven processes
+- Biostimulants and sustainable agriculture through data-driven insights  
+- Intelligent assistants and productivity tools for science (LLMs, automation, dashboards)
 
 <p align="center">
   <!-- Python -->
@@ -34,11 +39,6 @@ I am independant, and always open to collaborations.
   <!-- Open Science -->
   <img src="https://img.shields.io/badge/Open%20Science-3A75C4?logo=openaccess&logoColor=white" />
 </p>
-
-- Machine learning for chemistry and molecular discovery
-- Photochemistry, photocatalysis and light-driven processes
-- Biostimulants and sustainable agriculture through data-driven insights  
-- Intelligent assistants and productivity tools for science (LLMs, automation, dashboards)
 
 ---
 ## Active Projects 
@@ -64,7 +64,7 @@ I am independant, and always open to collaborations.
 
 - [Reaction Optimization Tool](https://github.com/victorcarre6/reaction-optimization-tool)  <img src="https://img.shields.io/badge/WIP-orange" />  
 
-  <img src="https://img.shields.io/badge/Chemistry-008080?logo=atom&logoColor=white" />
+  <img src="https://img.shields.io/badge/Chemistry-008080?logo=atom&logoColor=green" />
   <img src="https://img.shields.io/badge/Machine%20Learning-102230?logo=scikitlearn&logoColor=white" />
  
   
@@ -72,8 +72,8 @@ I am independant, and always open to collaborations.
 
 - [Photocompounds Database](https://github.com/victorcarre6/photocompounds-database)  <img src="https://img.shields.io/badge/WIP-orange" />
 
-  <img src="https://img.shields.io/badge/Database-blue?logo=sqlite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Photochemistry-purple" />
+  <img src="https://img.shields.io/badge/Chemistry-008080?logo=atom&logoColor=green" />
+  <img src="https://img.shields.io/badge/Database-blue?logo=sqlite&logoColor=yellow" />
   
   A comprehensive database for artificial photosynthesis molecules and photocatalytic systems, with a focus on biomass valorization.
   
