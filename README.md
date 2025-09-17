@@ -8,23 +8,8 @@ From molecular discovery to AI-powered assistants, my goal is to help scientists
 I am independant, and always open to collaborations.  
 
 <p align="center">
-  <!-- Followers -->
-  <img src="https://img.shields.io/github/followers/victorcarre6?label=Followers&style=social" />
   <!-- Total Stars -->
   <img src="https://img.shields.io/github/stars/victorcarre6?affiliations=OWNER&style=social" />
-  <!-- Total Forks -->
-  <img src="https://img.shields.io/github/forks/victorcarre6?affiliations=OWNER&style=social" />
-</p>
-
-<p align="center">
-  <!-- Python -->
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
-  <!-- SQL -->
-  <img src="https://img.shields.io/badge/SQL-003B57?logo=sqlite&logoColor=white" />
-  <!-- Hugging Face -->
-  <img src="https://img.shields.io/badge/HuggingFace-FFAE00?logo=huggingface&logoColor=white" />
-  <!-- Jupyter -->
-  <img src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white" />
 </p>
 
 <p align="center">
