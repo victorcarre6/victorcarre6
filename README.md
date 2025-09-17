@@ -18,17 +18,17 @@ I am independant, and always open to collaborations.
 
 <p align="center">
   <!-- Python -->
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=green" />
   <!-- SQL -->
-  <img src="https://img.shields.io/badge/SQL-003B57?logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-003B57?logo=sqlite&logoColor=yellow" />
   <!-- Machine Learning -->
   <img src="https://img.shields.io/badge/Machine%20Learning-102230?logo=tensorflow&logoColor=orange" />
   <!-- PyTorch -->
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=red" />
   <!-- Scikit-learn -->
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=orange" />
   <!-- Open Science -->
-  <img src="https://img.shields.io/badge/Open%20Science-3A75C4?logo=openaccess&logoColor=white" />
+  <img src="https://img.shields.io/badge/Open%20Science-3A75C4?logo=openaccess&logoColor=green" />
 </p>
 
 - Machine learning for chemistry and molecular discovery
@@ -42,9 +42,9 @@ I am independant, and always open to collaborations.
 - [LocalMind](https://github.com/victorcarre6/llm-assistant)
   
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=green" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=green" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=yellow" />
   <img src="https://img.shields.io/badge/LLM-Context--Aware-green" />
-  <img src="https://img.shields.io/badge/Memory--System-green" /> 
+  <img src="https://img.shields.io/badge/Memory--System-blue" /> 
 
   A chat interface to discuss with local models that maintain persistent memory, based on Local LLM Memorization with automatic update and retrieving of memory.
 
@@ -52,25 +52,24 @@ I am independant, and always open to collaborations.
 
 - [Local LLM Memorization](https://github.com/victorcarre6/llm-memorization)
   
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=yellow" />
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=green" />
   <img src="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=yellow" />
-  <img src="https://img.shields.io/badge/Memory--System-yellow" />
+  <img src="https://img.shields.io/badge/Memory--System-blue" />
    
   A project aiming to enhance interactions with local models by automatically memorizing and summarizing past conversations to generate precise and context-aware prompts.
 
-- [Reaction Optimization Tool](https://github.com/victorcarre6/reaction-optimization-tool) (WIP)  
+- [Reaction Optimization Tool](https://github.com/victorcarre6/reaction-optimization-tool)  <img src="https://img.shields.io/badge/WIP-orange" />  
 
   <img src="https://img.shields.io/badge/Chemistry-008080?logo=atom&logoColor=white" />
   <img src="https://img.shields.io/badge/Machine%20Learning-102230?logo=scikitlearn&logoColor=white" />
-  <img src="https://img.shields.io/badge/WIP-orange" />
+ 
   
   This project aims to develop an interface for the prediction of chemical reaction yields by combining molecular structure information, experimental conditions and machine learning models.
 
-- [Photocompounds Database](https://github.com/victorcarre6/photocompounds-database) (WIP)  
+- [Photocompounds Database](https://github.com/victorcarre6/photocompounds-database)  <img src="https://img.shields.io/badge/WIP-orange" />
 
   <img src="https://img.shields.io/badge/Database-blue?logo=sqlite&logoColor=white" />
   <img src="https://img.shields.io/badge/Photochemistry-purple" />
-  <img src="https://img.shields.io/badge/WIP-orange" />
   
   A comprehensive database for artificial photosynthesis molecules and photocatalytic systems, with a focus on biomass valorization.
   
