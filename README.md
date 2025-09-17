@@ -18,6 +18,10 @@ I am independant, and always open to collaborations.
   </a>
 </p>
 
+---
+
+## My Interests  
+
 <p align="center">
   <!-- Python -->
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
@@ -32,11 +36,6 @@ I am independant, and always open to collaborations.
   <!-- Open Science -->
   <img src="https://img.shields.io/badge/Open%20Science-3A75C4?logo=openaccess&logoColor=white" />
 </p>
-
-
----
-
-## My Interests  
 
 - Machine learning for chemistry and molecular discovery
 - Photochemistry, photocatalysis and light-driven processes
