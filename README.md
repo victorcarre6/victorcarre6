@@ -49,23 +49,30 @@ I am independant, and always open to collaborations.
 
   
 
-- [Local LLM Memorization](https://github.com/victorcarre6/llm-memorization)  
+- [Local LLM Memorization](https://github.com/victorcarre6/llm-memorization)
+  
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Memory--System-green" />  
+  <img src="https://img.shields.io/badge/Memory--System-green" />
+   
   A project aiming to enhance interactions with local models by automatically memorizing and summarizing past conversations to generate precise and context-aware prompts.
 
 - [Reaction Optimization Tool](https://github.com/victorcarre6/reaction-optimization-tool) (WIP)  
+
   <img src="https://img.shields.io/badge/Chemistry-008080?logo=atom&logoColor=white" />
   <img src="https://img.shields.io/badge/Machine%20Learning-102230?logo=scikitlearn&logoColor=white" />
-  <img src="https://img.shields.io/badge/WIP-orange" />  
+  <img src="https://img.shields.io/badge/WIP-orange" />
+  
   This project aims to develop an interface for the prediction of chemical reaction yields by combining molecular structure information, experimental conditions and machine learning models.
 
 - [Photocompounds Database](https://github.com/victorcarre6/photocompounds-database) (WIP)  
+
   <img src="https://img.shields.io/badge/Database-blue?logo=sqlite&logoColor=white" />
   <img src="https://img.shields.io/badge/Photochemistry-purple" />
-  <img src="https://img.shields.io/badge/WIP-orange" />  
-  A comprehensive database for artificial photosynthesis molecules and photocatalytic systems, with a focus on biomass valorization. 
+  <img src="https://img.shields.io/badge/WIP-orange" />
+  
+  A comprehensive database for artificial photosynthesis molecules and photocatalytic systems, with a focus on biomass valorization.
+  
 ## Future Projects (Currently Private)
 
 - [Photocompounds Properties Predictor](https://github.com/victorcarre6/photocompounds-properties-predictor)
