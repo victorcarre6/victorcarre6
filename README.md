@@ -21,12 +21,16 @@ I am independant, and always open to collaborations.
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=green" />
   <!-- SQL -->
   <img src="https://img.shields.io/badge/SQL-003B57?logo=sqlite&logoColor=yellow" />
+</p>
+<p align="center">
   <!-- Machine Learning -->
   <img src="https://img.shields.io/badge/Machine%20Learning-102230?logo=tensorflow&logoColor=orange" />
   <!-- PyTorch -->
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white" />
   <!-- Scikit-learn -->
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white" />
+</p>
+<p align="center">
   <!-- Open Science -->
   <img src="https://img.shields.io/badge/Open%20Science-3A75C4?logo=openaccess&logoColor=white" />
 </p>
