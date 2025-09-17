@@ -18,6 +18,37 @@ I am independant, and always open to collaborations.
   </a>
 </p>
 
+<p align="center">
+  <!-- Python -->
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
+  <!-- SQL -->
+  <img src="https://img.shields.io/badge/SQL-003B57?logo=sqlite&logoColor=white" />
+  <!-- Hugging Face -->
+  <img src="https://img.shields.io/badge/HuggingFace-FFAE00?logo=huggingface&logoColor=black" />
+  <!-- Data Science -->
+  <img src="https://img.shields.io/badge/Data%20Science-1E4E7E?logo=databricks&logoColor=white" />
+  <!-- Machine Learning -->
+  <img src="https://img.shields.io/badge/Machine%20Learning-102230?logo=tensorflow&logoColor=orange" />
+</p>
+
+<p align="center">
+  <!-- PyTorch -->
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white" />
+  <!-- Transformers -->
+  <img src="https://img.shields.io/badge/Transformers-FF6F00?logo=huggingface&logoColor=white" />
+  <!-- Jupyter -->
+  <img src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white" />
+  <!-- Scikit-learn -->
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white" />
+</p>
+
+<p align="center">
+  <!-- Science -->
+  <img src="https://img.shields.io/badge/Chemistry-008080?logo=atom&logoColor=white" />
+  <!-- Open Science -->
+  <img src="https://img.shields.io/badge/Open%20Science-3A75C4?logo=openaccess&logoColor=white" />
+</p>
+
 
 ---
 
