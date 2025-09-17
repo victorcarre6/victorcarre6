@@ -24,11 +24,11 @@ I am independant, and always open to collaborations.
   <!-- Machine Learning -->
   <img src="https://img.shields.io/badge/Machine%20Learning-102230?logo=tensorflow&logoColor=orange" />
   <!-- PyTorch -->
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=red" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=black" />
   <!-- Scikit-learn -->
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=orange" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=black" />
   <!-- Open Science -->
-  <img src="https://img.shields.io/badge/Open%20Science-3A75C4?logo=openaccess&logoColor=green" />
+  <img src="https://img.shields.io/badge/Open%20Science-3A75C4?logo=openaccess&logoColor=blue" />
 </p>
 
 - Machine learning for chemistry and molecular discovery
