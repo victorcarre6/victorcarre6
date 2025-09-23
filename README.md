@@ -26,6 +26,8 @@ I am independant, and always open to collaborations.
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=green" />
   <!-- SQL -->
   <img src="https://img.shields.io/badge/SQL-003B57?logo=sqlite&logoColor=yellow" />
+  <!-- Neo4j -->
+  <img src="https://img.shields.io/badge/Neo4j-008CC1?logo=neo4j&logoColor=orange" />
 </p>
 <p align="center">
   <!-- Machine Learning -->
@@ -62,6 +64,17 @@ I am independant, and always open to collaborations.
    
   A project aiming to enhance interactions with local models by automatically memorizing and summarizing past conversations to generate precise and context-aware prompts.
 
+## Work in progress
+
+- [Alexandria](https://github.com/victorcarre6/Alexandria)  <img src="https://img.shields.io/badge/WIP-orange" />  
+
+  <img src="https://img.shields.io/badge/Bibliographic%20Database-4B0082?logo=bookstack&logoColor=white" />
+  <img src="https://img.shields.io/badge/Neo4j-008CC1?logo=neo4j&logoColor=white" />
+  <img src="https://img.shields.io/badge/Automation-blue?logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Open%20Science-green?logo=openaccess&logoColor=white" />
+  
+  Building an automated bibliographic-database system that integrates scientific papers into a searchable graph for advanced literature analysis.
+
 - [Reaction Optimization Tool](https://github.com/victorcarre6/reaction-optimization-tool)  <img src="https://img.shields.io/badge/WIP-orange" />  
 
   <img src="https://img.shields.io/badge/Chemistry-008080?logo=atom&logoColor=green" />
@@ -81,7 +94,7 @@ I am independant, and always open to collaborations.
 
 - [Photocompounds Properties Predictor](https://github.com/victorcarre6/photocompounds-properties-predictor)
 
-A project aiming to predict the properties, stability, and efficiency of photocompounds, using a homemade dataset.
+A project aiming to predict the properties, stability, and efficiency of photocompounds, using the homemade dataset [Photocompounds Database](https://github.com/victorcarre6/photocompounds-database).
 
 - [Biostimulants Database](https://github.com/victorcarre6/biostimulants-database)
 
