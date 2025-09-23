@@ -39,7 +39,7 @@ I am independant, and always open to collaborations.
 </p>
 <p align="center">
   <!-- Open Science -->
-  <img src="https://img.shields.io/badge/Open%20Science-3A75C4?logo=openaccess&logoColor=white" />
+  <img src="https://img.shields.io/badge/Open%20Science-green?logo=openaccess&logoColor=white" />
 </p>
 
 ---
@@ -69,7 +69,7 @@ I am independant, and always open to collaborations.
 - [Alexandria](https://github.com/victorcarre6/Alexandria)  <img src="https://img.shields.io/badge/WIP-orange" />  
 
   <img src="https://img.shields.io/badge/Bibliographic%20Database-4B0082?logo=bookstack&logoColor=white" />
-  <img src="https://img.shields.io/badge/Neo4j-008CC1?logo=neo4j&logoColor=white" />
+  <img src="https://img.shields.io/badge/Neo4j-008CC1?logo=neo4j&logoColor=orange" />
   <img src="https://img.shields.io/badge/Automation-blue?logo=githubactions&logoColor=white" />
   <img src="https://img.shields.io/badge/Open%20Science-green?logo=openaccess&logoColor=white" />
   
