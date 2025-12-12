@@ -1,4 +1,4 @@
-# Hello there ! I'm Victor
+# Hello there ! I'm Victor Carré
 
 <p align="center">
   <!-- Total Stars -->
