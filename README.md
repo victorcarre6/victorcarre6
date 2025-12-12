@@ -1,4 +1,4 @@
-# Hello there ! I'm Victor – PhD in Organic Chemistry
+# Hello there ! I'm Victor
 
 <p align="center">
   <!-- Total Stars -->
