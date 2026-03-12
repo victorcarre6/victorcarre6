@@ -10,7 +10,7 @@ I design open-source tools that combine scientific rigor and digital innovation.
 
 I am independant, and always open to collaborations.
 
-For French speaker, feel free to visit [my website](www.victorcarre.fr) with my portfolio and articles !
+For French speaker, feel free to visit [my website](http://www.victorcarre.fr) with my portfolio and articles !
 
 ---
 
