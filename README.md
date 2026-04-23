@@ -96,13 +96,6 @@ For French speaker, feel free to visit [my website](http://www.victorcarre.fr) w
 
 If you're working on projects related to sustainable chemistry, clean energy, or molecular innovation, feel free to reach out — I'd be happy to discuss with like-minded scientists!
 
-<p align="center">
-  <a href="https://ko-fi.com/victorcarre">
-    <img src="https://ko-fi.com/img/githubbutton_sm.svg" />
-  </a>
-</p>
-
-
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=green" />
