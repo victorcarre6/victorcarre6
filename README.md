@@ -71,37 +71,42 @@ For French speaker, feel free to visit [my website](http://www.victorcarre.fr) w
   <img src="https://img.shields.io/badge/DFT%20Data-teal" />
   <img src="https://img.shields.io/badge/RDKit-29ABE2" />
     
-  Prediction of photochemical properties (HOMO-LUMO gap, orbital energies) using Graph Neural Networks. Leverages quantum chemistry datasets (QM9, PC9, Transition1x, Harvard OPV) to train models capable of accelerating photocatalyst design and organic solar cell discovery.
+  Prediction of photochemical properties (HOMO-LUMO gap, orbital energies, redox potentials) using Graph Neural Networks. Leverages quantum chemistry datasets (QM9, PC9, Transition1x, Harvard OPV) to train models capable of accelerating photocatalyst design and organic solar cell discovery.
 
 ---
 
-## LLM & Productivity Tools
+## LLM & Agentic AI
 
-- **[LocalMind](https://github.com/victorcarre6/llm-assistant)** &nbsp; <img src="https://img.shields.io/badge/Open%20Source-brightgreen?logo=opensourceinitiative&logoColor=white" height="18" />
+- **[Nexus](https://www.victorcarre.com/portfolio/nexus/)** &nbsp; <img src="https://img.shields.io/badge/Open%20Source-brightgreen?logo=opensourceinitiative&logoColor=white" height="18" />
     
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=green" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=yellow" />
-  <img src="https://img.shields.io/badge/LLM-Context--Aware-green" />
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/ChromaDB-003B57?logo=google-cloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangGraph-000000?logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bibliography-4B0082?logo=bookstack&logoColor=white" />
+    
+  AI-powered automated monitoring ecosystem designed for scientific research. Orchestrates AI agents, advanced RAG, and local LLMs within a user interface that allows researchers to interact with their data and watchlists. A deep agentic ecosystem automates complex tasks to significantly accelerate daily research workflows.
+    
+- **[SciGraphRAG](https://www.victorcarre.com/portfolio/graphrag/)** &nbsp; <img src="https://img.shields.io/badge/Open%20Source-brightgreen?logo=opensourceinitiative&logoColor=white" height="18" />
+
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/RAG-blue?logo=data-canals&logoColor=white" />
+  <img src="https://img.shields.io/badge/GraphRAG-4B0082?logo=diagrams.net&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ollama-black?logo=ollama&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Memory--System-blue" />
     
-  A modular chat interface to interact with local models that maintain persistent memory, based on Local LLM Memorization with automatic update and retrieval.
+  Implementation of GraphRAG pipelines inspired by Microsoft’s framework and rebuilt in Python, leveraging local LLMs via Ollama for large-scale corpus processing. Demonstrated on 25 academic publications and 25 theses, using local models for inference and automated evaluation through LLM-as-a-Judge scoring. Includes a graph visualization interface for manual data exploration.
     
-- **[Local LLM Memorization](https://github.com/victorcarre6/llm-memorization)** &nbsp; <img src="https://img.shields.io/badge/Open%20Source-brightgreen?logo=opensourceinitiative&logoColor=white" height="18" />
-    
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=green" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=yellow" />
-  <img src="https://img.shields.io/badge/Memory--System-blue" />
-    
-  Enhance interactions with local models by automatically memorizing and summarizing past conversations to generate precise, context-aware prompts. Built around a lightweight local SQLite database for easy memory access.
-    
-- **[Alexandria](https://github.com/victorcarre6/Alexandria)** &nbsp; <img src="https://img.shields.io/badge/Private-grey?logo=lock&logoColor=white" height="18" />
-    
-  <img src="https://img.shields.io/badge/Bibliographic%20Database-4B0082?logo=bookstack&logoColor=white" />
-  <img src="https://img.shields.io/badge/Neo4j-008CC1?logo=neo4j&logoColor=orange" />
-  <img src="https://img.shields.io/badge/Automation-blue?logo=githubactions&logoColor=white" />
+- **[RegulAgro](https://www.victorcarre.com/portfolio/regulagro/)** &nbsp; <img src="https://img.shields.io/badge/Private-grey?logo=lock&logoColor=white" height="18" />
+
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/Ollama-black?logo=ollama&logoColor=white" />
+  <img src="https://img.shields.io/badge/Unsloth-008CC1?logo=unsloth&logoColor=white" />
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?logo=huggingface&logoColor=black" />
   <img src="https://img.shields.io/badge/Open%20Science-green?logo=openaccess&logoColor=white" />
     
-  An automated bibliographic-database system that integrates scientific papers into a searchable graph for advanced literature analysis. Features an AI chatbot that can query and "discuss" directly with the user's bibliography.
+  Development of an expert model specialized in agrochemical law through fine-tuning open-weight models. The goal is to consistently outperform generalist LLMs on compliance, authorization, and substance status queries within French and European regulatory frameworks.
 
 ---
 
