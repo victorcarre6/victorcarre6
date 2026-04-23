@@ -4,22 +4,17 @@
   <img src="https://img.shields.io/github/stars/victorcarre6?affiliations=OWNER&style=social" />
 </p>
 
-Exploring the intersection of Chemistry, Data Science, and AI models.
+With a PhD in Fundamental Sciences and dual expertise in Computer Science, I help laboratories and industries navigate the next generation of AI.
+I specialize in building autonomous agentic systems and advanced RAG architectures that turn complex data into actionable insights.
 
-I design open-source tools that combine scientific rigor and digital innovation. From molecular discovery to AI-powered assistants, my goal is to help scientists push the boundaries of their research.
-
-I am independant, and always open to collaborations.
-
+Whether it's optimizing industrial processes or automating scientific monitoring, I design custom, sovereign solutions that prioritize data privacy and technical rigor.
 For French speaker, feel free to visit [my website](http://www.victorcarre.fr) with my portfolio and articles !
 
----
-
-## My Interests
-
-- Deep learning for chemistry and molecular discovery
-- Photochemistry, photocatalysis and light-driven processes
-- Biostimulants and sustainable agriculture through data-driven insights
-- Intelligent assistants and productivity tools for science (RAG, agentic workflows, and LLM fine-tuning)
+## Core Expertise
+- Advanced RAG & Strategic Monitoring: Building semantic search engines and automated watchlists (competitive intelligence, internal docs) with local inference to ensure data sovereignty.
+- Agentic Ecosystems: Developing autonomous agents capable of managing complex workflows—from automated experimental analysis to deep synthesis of academic corpuses.
+- AI for Deep Science: Leveraging cutting-edge architectures (GNNs, PINNs) and LLM reasoning to model complex systems and facilitate data-driven decision-making.
+- Local Infrastructure: Full-stack development on high-performance local setups (Multi-GPU) for offline training and execution (No cloud data leaks).
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=green" />
@@ -47,6 +42,13 @@ For French speaker, feel free to visit [my website](http://www.victorcarre.fr) w
   <img src="https://img.shields.io/badge/Open%20Science-green?logo=openaccess&logoColor=white" />
 </p>
 
+## Technical Stack
+
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **GenAI & Agents** | LangGraph, LangChain, n8n, Ollama, Unsloth, ChromaDB |
+| **Data Science** | Python (PyTorch, Scikit-Learn, Optuna), FastAPI, RDKit, PubChemPy |
+| **Interfaces** | Streamlit, Plotly, Node.js, Electron |
 
 ---
 
