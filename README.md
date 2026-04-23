@@ -94,31 +94,4 @@ For French speaker, feel free to visit [my website](http://www.victorcarre.fr) w
 
 ## Open to Collaborations
 
-If you're working on projects related to sustainable chemistry, clean energy, or molecular innovation, feel free to reach out — I'd be happy to discuss with like-minded scientists!
-
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=green" />
-  <img src="https://img.shields.io/badge/SQL-003B57?logo=sqlite&logoColor=yellow" />
-  <img src="https://img.shields.io/badge/Neo4j-008CC1?logo=neo4j&logoColor=orange" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Machine%20Learning-102230?logo=tensorflow&logoColor=orange" />
-  <img src="https://img.shields.io/badge/Deep%20Learning-021733?style=flat&logo=biapy&logoColor=white" />
-   </p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?logo=langchain&logoColor=white" />
-  <img src="https://img.shields.io/badge/RAG-teal?style=flat" />
-  <img src="https://img.shields.io/badge/Agentic%20Workflows-darkgreen?style=flat" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Open%20Science-green?logo=openaccess&logoColor=white" />
-</p>
+If you're working on projects related to sustainable chemistry, clean energy, or molecular innovation, feel free to reach out. I'd be happy to discuss with like-minded scientists!
